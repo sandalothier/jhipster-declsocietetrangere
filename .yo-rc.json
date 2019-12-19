@@ -1,0 +1,48 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "declsocietetrangere",
+    "packageName": "com.fisc.declsocietetrangere",
+    "packageFolder": "com/fisc/declsocietetrangere",
+    "serverPort": 8105,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.5.1",
+    "jwtSecretKey": "MzQwZjMwYWI4YzlhMzc4MDQ2ZGU0NWM3OWU2MmVkZGFiOTI1N2QyYmYwOGNlNzkzMjdjMGUxMDRiYmUwMjEwNWI4MjRjYzhmNjM4MGRhNmJmYTY4MjQzOGVjODgyNjUxYTg1ZGZhZjQ3ZTliYzJlOGFhN2U3NjBiMGYzYTk2MDI=",
+    "embeddableLaunchScript": false,
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "sandalothier",
+  "repository-name": "jhipster-declsocietetrangere"
+}
